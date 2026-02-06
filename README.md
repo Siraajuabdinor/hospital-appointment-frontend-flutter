@@ -14,10 +14,6 @@ for users and specialties.
   - User management and search.
   - Schedule management.
 
-- Doctor
-  - `DoctorDashboard` to view appointments by date/status.
-  - Patient appointment details.
-  - Schedule visibility and daily workload.
 
 - Patient
   - `PatientHomePage` to search doctors and view profiles.
