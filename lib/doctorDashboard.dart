@@ -180,7 +180,7 @@ class _DoctorDashboardState extends State<DoctorDashboard> {
                   backgroundColor: AppColors.primary,
                   foregroundColor: Colors.white,
                 ),
-                child: Text('Mark as Completed'),
+                child: Text('Mark  Completed'),
               ),
           ],
         );
@@ -340,12 +340,12 @@ class _DoctorDashboardState extends State<DoctorDashboard> {
   Widget _buildFilterSection() {
     return Container(
       padding: EdgeInsets.all(16),
-      color: Colors.grey[100],
+      // color: Colors.grey[100],
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'Filter Appointments',
+            'Filter in  Appointments',
             style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
           SizedBox(height: 12),
